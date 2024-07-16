@@ -10,7 +10,7 @@ website:
 
   page-footer: 
     border: true
-    left: "Chaz Clark  2024©"
+    left: "Chaz Clark 2024©"
     right: 
       - icon: linkedin
         href: https://www.linkedin.com/in/chazclark/
